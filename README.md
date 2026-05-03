@@ -1,3 +1,5 @@
+![SMS BOMB Banner](assets/banner.png)
+
 # SMS BOMB v3.0 [ELITE]
 
 A modular, high-performance SMS Bombing framework designed for testing and learning purposes. This tool targets specific Sri Lankan services to demonstrate how automated registration and OTP flows work.
