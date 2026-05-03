@@ -33,10 +33,13 @@ The developer (`xtony.exe`) is **NOT responsible** for any illegal activities do
 
 ## 📖 Usage
 
-Run the main script to launch the interactive menu:
-```bash
-python bomb.py
-```
+### Option 1: Run from Source (Recommended for Devs)
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run: `python bomb.py`
+
+### Option 2: Pre-built Executable (Windows)
+1. Go to the `dist/` folder.
+2. Run `SMS_BOMB.exe`. No Python installation is required!
 
 ### Attack Profiles
 - **Light**: 10 messages, 2s delay (1 Service)
