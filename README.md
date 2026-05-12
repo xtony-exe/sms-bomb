@@ -24,7 +24,7 @@ The developer (`xtony.exe`) is **NOT responsible** for any illegal activities do
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sms-bomb.git
+   git clone https://github.com/xtony-exe/sms-bomb.git
    cd sms-bomb
    ```
 
